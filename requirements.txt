@@ -4,12 +4,9 @@ spacy
 pt_core_news_sm
 seaborn
 scikit-learn
-
-
-
-
-
-
+requests
+bs4
+pandas
 
 
 
